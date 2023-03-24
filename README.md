@@ -1,3 +1,4 @@
+theme: Modernist
 # Hello, world
 
 I study in Netology
